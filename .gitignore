@@ -1,3 +1,6 @@
 /venv
+/images
 *.idea
 *.whl
+.ipynb_checkpoints
+fastai
